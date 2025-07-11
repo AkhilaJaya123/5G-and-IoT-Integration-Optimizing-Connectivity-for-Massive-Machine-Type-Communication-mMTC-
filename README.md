@@ -64,4 +64,7 @@ With billions of IoT devices expected to be connected via 5G, ensuring **low lat
 
 ---
 
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
