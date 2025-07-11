@@ -44,7 +44,7 @@ With billions of IoT devices expected to be connected via 5G, ensuring **low lat
 ---
 
 ## 📊 Results
-
+![Results](Results)
 - **Latency prediction accuracy**: 96.15%
 - **Bandwidth prediction accuracy**: 81.14%
 - **MAE (bandwidth)**: 0.0049
