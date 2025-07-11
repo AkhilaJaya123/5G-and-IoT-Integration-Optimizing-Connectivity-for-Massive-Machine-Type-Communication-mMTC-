@@ -64,6 +64,13 @@ With billions of IoT devices expected to be connected via 5G, ensuring **low lat
 
 ---
 
+## 🏆 Conference Presentation
+![Certificate](Conference Acceptance Certificate)
+This paper titled **"5G and IoT Integration: Optimizing Connectivity for Massive Machine-Type Communication (mMTC)"** was officially presented at:
+
+- **Conference**: 3rd International Conference on Futuristic Technologies (INCOFT-2025)
+- **Dates**: 21st – 22nd February 2025
+
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
